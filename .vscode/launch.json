@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DebugOne4",
+            "request": "launch",
+            "mainClass": "DebugOne4",
+            "projectName": "java-debugging-EatMySkill_eeb59cf3"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
