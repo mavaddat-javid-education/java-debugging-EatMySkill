@@ -1,5 +1,5 @@
 // Some circle statistics
-public class FixDebugFor2
+public class DebugFour2
 {
    public static void main(String args[])
    {
@@ -8,6 +8,6 @@ public class FixDebugFor2
       double area = java.lang.Math.PI * radius * radius;
       System.out.println("area is " + area);
       double diameter = 2 * diameter;
-      System.out.println("diameter is " + diameter)
+      System.out.println("diameter is " + diameter);
    }
 }
